@@ -25,3 +25,4 @@ jobs:
                   node jd_crazy_joy_coin.js
               env:
                   JD_COOKIE: ${{ secrets.JD_COOKIE }}
+                  #方法
